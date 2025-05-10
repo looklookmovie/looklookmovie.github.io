@@ -1,0 +1,10 @@
+User-agent: GPTBot
+User-agent: dotbot
+User-agent: AhrefsBot
+User-agent: claudebot
+User-agent: SemrushBot
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Pinterestbot
+Crawl-delay: 1

@@ -1,0 +1,1 @@
+import{_ as e}from"./CWZecTPV.js";import{f as t,g as r,o as m}from"./TCJ18Cqp.js";import"./8cMVV1RL.js";import"./DL5Oq3XQ.js";import"./DlDN50hQ.js";import"./Dc6ZScgV.js";import"./CcjG4KHS.js";const _={class:"movie-item-rate_hidden"},x={__name:"index",setup(i){return(s,a)=>{const o=e;return m(),t("div",_,[r(o)])}}};export{x as default};
